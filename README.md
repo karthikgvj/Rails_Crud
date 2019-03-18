@@ -1,24 +1,7 @@
-# README
+# Rails Crud operation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1.This project is about Creating,Viewing,Editing and Deleting the empoyees list.
 
-Things you may want to cover:
+2.It uses routing and navigates to another view for creating and editing.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3.View and delete for employees will be performed in the index page.
